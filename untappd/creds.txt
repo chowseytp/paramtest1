@@ -1,0 +1,14 @@
+Client ID: 030FD604B5BBA5C8418105102071781D83BBA2C8
+
+Client Secret: 1F109FAADCE450446C0E9ECFE36D09293685C2E4
+
+
+https://www.getpostman.com/oauth2/callback
+
+https://untappd.com/oauth/authenticate/?client_id=030FD604B5BBA5C8418105102071781D83BBA2C8&response_type=code&redirect_url=https://www.getpostman.com/oauth2/callback
+
+
+https://untappd.com/oauth/authorize/?client_id=030FD604B5BBA5C8418105102071781D83BBA2C8&client_secret=1F109FAADCE450446C0E9ECFE36D09293685C2E4&response_type=code&redirect_url=https://www.getpostman.com/oauth2/callback&code=EB698CB12A446F08812938AC1CF3E4217AC46CFD
+
+
+973E302563514EAE17CCBA48B768AF09E32BF8AC
